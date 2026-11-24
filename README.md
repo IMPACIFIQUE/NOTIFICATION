@@ -8,10 +8,7 @@ A custom alert box built with HTML, CSS and JavaScript. It shows how to design y
 - Styled with CSS
 - Close button to dismiss the alert
 
-## Files
 
-- `alertbox.html`: the alert box and its JavaScript
-- `style.css`: the alert box design
 
 ## Run It
 
